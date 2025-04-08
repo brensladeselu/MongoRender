@@ -1,10 +1,10 @@
 {
-  "name": "ckMongoTest",
+  "name": "bsMongoTest",
   "version": "1.0.0",
-  "description": "CKs Express Mongo Test on Render",
+  "description": "BSs Express Mongo Test on Render",
   "main": "testmongo.js",
-  "repository": "https://github.com/ckorpio/MongoRender",
-  "author": "CK",
+  "repository": "https://github.com/brensladeselu/MongoRender",
+  "author": "BS",
   "license": "MIT",
   "private": false,
   "scripts": {
